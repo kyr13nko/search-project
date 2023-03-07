@@ -1,0 +1,17 @@
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  background-color: #fff;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
